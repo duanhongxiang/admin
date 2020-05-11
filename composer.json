@@ -1,0 +1,23 @@
+{
+    "name": "duanhongxiang/admin",
+    "description": "test uuuu",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "duan.hongxiang",
+            "email": "duan.hongxiang@towngas.com.cn"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Duanhongxiang\\Admin\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Duanhongxiang\\Admin\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "dev-master"
+}
