@@ -18,6 +18,5 @@
         "psr-4": {
             "Duanhongxiang\\Admin\\Tests\\": "tests/"
         }
-    },
-    "minimum-stability": "dev-master"
+    }
 }
